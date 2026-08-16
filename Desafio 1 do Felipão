@@ -1,0 +1,14 @@
+//impult
+const notificacao = 'Cadastrado com sucesso: ';
+const pokemonUm = "Poochyena";
+const pokemonDois = "Zigzagom";
+const pokemonTres = "Zigzagom";
+const pokemonQuatro = "Dragonite";
+const pokemonCinco = "Dragonite";
+const pokemonSeis = "Wurmple";
+
+
+
+//saída
+
+console.log(notificacao + pokemonUm);
